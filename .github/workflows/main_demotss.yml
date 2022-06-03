@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'demotss'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A2F9F8AC53794EA7A61E54DD8FDE1D12 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_049B2DAF01174FEB9C2523AD5FF1209F }}
           package: '*.jar'
